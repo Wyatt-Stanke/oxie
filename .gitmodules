@@ -1,0 +1,4 @@
+[submodule "client/scramjet"]
+	path = client/scramjet
+	url = https://github.com/MercuryWorkshop/scramjet
+	ignore = dirty
