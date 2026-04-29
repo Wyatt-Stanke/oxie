@@ -5,6 +5,8 @@
 [submodule "server/epoxy-tls"]
 	path = server/epoxy-tls
 	url = https://github.com/MercuryWorkshop/epoxy-tls/
+	ignore = dirty
 [submodule "docs/wisp-protocol"]
 	path = docs/wisp-protocol
 	url = https://github.com/MercuryWorkshop/wisp-protocol
+	ignore = dirty
