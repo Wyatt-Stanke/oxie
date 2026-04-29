@@ -2,3 +2,9 @@
 	path = client/scramjet
 	url = https://github.com/MercuryWorkshop/scramjet
 	ignore = dirty
+[submodule "server/epoxy-tls"]
+	path = server/epoxy-tls
+	url = https://github.com/MercuryWorkshop/epoxy-tls/
+[submodule "docs/wisp-protocol"]
+	path = docs/wisp-protocol
+	url = https://github.com/MercuryWorkshop/wisp-protocol
